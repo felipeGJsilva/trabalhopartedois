@@ -1,4 +1,3 @@
-Here is a simplified version of your 4-bit adder Arduino program with clear explanations and essential details.
 
 ### Program Overview
 
