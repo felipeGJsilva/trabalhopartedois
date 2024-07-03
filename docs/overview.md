@@ -1,5 +1,5 @@
 # Index
-
+[**index**](/docs/index.md)
 ## Usage
 - The software is used with buttons that are clicked by the user to input and calculate bits.
 
